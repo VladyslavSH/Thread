@@ -1,0 +1,9 @@
+D:\git\Process\Process\Rocket\bin\Debug\Rocket.exe.config
+D:\git\Process\Process\Rocket\bin\Debug\Rocket.exe
+D:\git\Process\Process\Rocket\bin\Debug\Rocket.pdb
+D:\git\Process\Process\Rocket\obj\Debug\Rocket.csprojResolveAssemblyReference.cache
+D:\git\Process\Process\Rocket\obj\Debug\Rocket.Form1.resources
+D:\git\Process\Process\Rocket\obj\Debug\Rocket.Properties.Resources.resources
+D:\git\Process\Process\Rocket\obj\Debug\Rocket.csproj.GenerateResource.Cache
+D:\git\Process\Process\Rocket\obj\Debug\Rocket.exe
+D:\git\Process\Process\Rocket\obj\Debug\Rocket.pdb

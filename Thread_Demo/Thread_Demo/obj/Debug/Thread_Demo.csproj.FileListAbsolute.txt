@@ -1,0 +1,6 @@
+c:\users\mak\documents\visual studio 2017\Projects\Thread_Demo\Thread_Demo\bin\Debug\Thread_Demo.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\Thread_Demo\Thread_Demo\bin\Debug\Thread_Demo.exe
+c:\users\mak\documents\visual studio 2017\Projects\Thread_Demo\Thread_Demo\bin\Debug\Thread_Demo.pdb
+c:\users\mak\documents\visual studio 2017\Projects\Thread_Demo\Thread_Demo\obj\Debug\Thread_Demo.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\Thread_Demo\Thread_Demo\obj\Debug\Thread_Demo.exe
+c:\users\mak\documents\visual studio 2017\Projects\Thread_Demo\Thread_Demo\obj\Debug\Thread_Demo.pdb
